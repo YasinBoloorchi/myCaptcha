@@ -34,4 +34,4 @@ This project is licensed under the GPL - see the LICENSE file for details
 
 As you can see, this program is still under manufacture, so fell free to help me make this program more efficient and better.
 
-thanks you all
+thank you all
